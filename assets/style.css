@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
+
+
+/* STYLING of ADMIN AREA */ 
+
+.TTwrap{
+}
+
+.TTmain{
+max-width: 600px;
+margin: 15px auto;
+background: #fff;
+border: 1px solid #333;
+padding: 18px;
+font-family: "Roboto", sans-serif;
+}
+
+.TTlogo{
+margin: 0 auto;
+text-align: center;
+display: block;
+width: 75px;
+height: 75px;
+}
+
+.TTmain h1{
+font-family: "Lato", monocode;
+text-align: center;
+margin-bottom: 50px;
+}
+
+.TTfeedback p, h4{
+display: inline;
+}
+
+.TTfeedback div{
+text-align: center;
+margin: 30px 0px 50px 0px;
+padding: 10px;
+font-size: 18px;
+}
+
+.red{
+color: #e06666;
+}
+
+.yellow{
+color: #fab60c;
+}
+
+.green{
+color: #3fcc46;
+}
+
+.blue{
+color: #3d85c6;
+}
+
